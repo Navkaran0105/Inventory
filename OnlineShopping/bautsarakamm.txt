@@ -1,7 +1,0 @@
-Pending Works
-
-1. Remove in Cart
-2 Joins in Cart(Colour,size,name)
-3 Update of qty in while adding in cart in details page-optional
-4 Menu to be dynamic
-5 
